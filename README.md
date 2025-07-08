@@ -20,7 +20,7 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 •	Notebook: Usado como interface adicional para entrada de dados e simulação das opções disponíveis ao passageiro, como seleção de tipo de passagem ou bagagem extra.
 •	Alavanca: Usada para simular o chamado da atendente.
 ## Diagrama em blocos 
-<img src = "exemplodelink" />
+<img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/foto.PNG" />
  Ao apertar o botão é iniciado a triagem, o cliente deve selecionar o voo, após selecionado deve selecionar a quantidade de malas, o potenciômetro serve para simular a balança que pesa as bagagens, se não houver excesso de peso na tela aparece o valor que se deve pagar pelas bagagens e finaliza o atendimento.
 ##Fase 2: Implementação
 ### Diagrama esquemático 
