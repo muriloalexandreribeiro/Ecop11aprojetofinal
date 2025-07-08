@@ -41,7 +41,9 @@ A balança no protótipo será simulada pelo potenciômetro, e os LEDs foram uti
 ![Foto do protótipo](./igm/fotomassa.png.jpeg)
 
 ### Vídeo do Funcionamento
-[Assista ao vídeo do protótipo](./igm/video.mp4.mp4)
+<video width="320" height="240" controls>
+  <source src="./igm/video.mp4.mp4" type="video/mp4">
+</video>
 
 ### Apresentação de Slides
 [Acesse a apresentação no Canva](https://www.canva.com/design/DAGsgLRd9uo/cUJDnLFe_8s644AO9DIBEw/edit?utm_content=DAGsgLRd9uo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
