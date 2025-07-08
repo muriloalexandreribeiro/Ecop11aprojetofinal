@@ -5,7 +5,7 @@ Thalytta Fernandes Damiani (2025004602)\
 Kaique Yuri Gomes Fernandes (2025008165)\
 Luiz Otavio Dantas de Oliveira (2025006590)\
 Murilo Alexandre Ribeiro (2025002297)\
-Thiago Augusto Martins Dias (2024012305)\
+Thiago Augusto Martins Dias (2024012305)
 
 ## Tema do projeto
 Um sistema de automação para triagem de malas em aeroportos, com o objetivo de tornar o processo mais rápido, eficiente e seguro. A ideia é criar uma solução capaz de identificar, classificar e direcionar bagagens de forma autônoma, reduzindo tempo de espera e custos operacionais, além de melhorar a experiência dos passageiros.
@@ -18,7 +18,7 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 •	Potenciômetro: Usado para simular o valor de peso da bagagem de forma analógica, permitindo ajustes manuais para diferentes cenários de teste.\
 •	Botão: Simula a interação do cliente com o totem de autoatendimento no aeroporto.\
 •	Notebook: Usado como interface adicional para entrada de dados e simulação das opções disponíveis ao passageiro, como seleção de tipo de passagem ou bagagem extra.\
-•	Alavanca: Usada para simular o chamado da atendente.\
+•	Alavanca: Usada para simular o chamado da atendente.
 ## Diagrama em blocos 
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/foto.PNG" />
  Ao apertar o botão é iniciado a triagem, o cliente deve selecionar o voo, após selecionado deve selecionar a quantidade de malas, o potenciômetro serve para simular a balança que pesa as bagagens, se não houver excesso de peso na tela aparece o valor que se deve pagar pelas bagagens e finaliza o atendimento.
@@ -28,7 +28,7 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 O balança no protótipo será simulada pelo potenciômetro, e os LEDs foram utilizados no esquemático apenas para testar se as conexões.
 ## Fase 3: Documentação e implementação
 ### foto do protótipo
-<img src = "exemplodelink" />
+<img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotomassa.png.jpeg" />
 ### Vídeo do funcionamento 
 <video width= "400" heigth ="400" control> <source src = "" type ="video/mp4" ></video>
 ### Apresentação de slides
