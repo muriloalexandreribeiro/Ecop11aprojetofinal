@@ -26,7 +26,7 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 ### Diagrama esquemático 
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotassa.png" />
 O balança no protótipo será simulada pelo potenciômetro, e os LEDs foram utilizados no esquemático apenas para testar se as conexões.
-## Fase 3: Documentação e implementação
+## Fase 3: Documentação e implementação\
 ### foto do protótipo
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotomassa.png.jpeg" />
 ### Vídeo do funcionamento 
