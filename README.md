@@ -30,6 +30,6 @@ O balança no protótipo será simulada pelo potenciômetro, e os LEDs foram uti
 ### foto do protótipo
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotomassa.png.jpeg" />
 ### Vídeo do funcionamento 
-https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/video.mp4.mp4" type ="video/mp4
+https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/video.mp4.mp4
 ### Apresentação de slides
 https://www.canva.com/design/DAGsgLRd9uo/cUJDnLFe_8s644AO9DIBEw/edit?utm_content=DAGsgLRd9uo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
