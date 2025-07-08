@@ -21,12 +21,12 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 •	Alavanca: Usada para simular o chamado da atendente.
 ## Diagrama em blocos 
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/foto.PNG" />
- Ao apertar o botão é iniciado a triagem, o cliente deve selecionar o voo, após selecionado deve selecionar a quantidade de malas, o potenciômetro serve para simular a balança que pesa as bagagens, se não houver excesso de peso na tela aparece o valor que se deve pagar pelas bagagens e finaliza o atendimento.
+Ao apertar o botão é iniciado a triagem, o cliente deve selecionar o voo, após selecionado deve selecionar a quantidade de malas, o potenciômetro serve para simular a balança que pesa as bagagens, se não houver excesso de peso na tela aparece o valor que se deve pagar pelas bagagens e finaliza o atendimento.
 ##Fase 2: Implementação
 ### Diagrama esquemático 
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotassa.png" />
-A balança no protótipo será simulada pelo potenciômetro, e os LEDs foram utilizados no esquemático apenas para testar se as conexões.\
-## Fase 3: Documentação e implementação
+A balança no protótipo será simulada pelo potenciômetro, e os LEDs foram utilizados no esquemático apenas para testar se as conexões.
+### Fase 3:Documentação e implementação
 ### foto do protótipo
 <img src = "https://github.com/muriloalexandreribeiro/Ecop11aprojetofinal/blob/main/igm/fotomassa.png.jpeg" />
 ### Vídeo do funcionamento 
