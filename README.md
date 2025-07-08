@@ -26,7 +26,10 @@ Desenvolver uma simulação funcional de um sistema automatizado que represente 
 ### Diagrama esquemático 
 <img src = "exemplodelink" />
 O balança no protótipo será simulada pelo potenciômetro, e os LEDs foram utilizados no esquemático apenas para testar se as conexões.
-### Foto do protótipo 
+## Fase 3: Documentação e implementação
+### foto do protótipo
 <img src = "exemplodelink" />
-
-
+### Vídeo do funcionamento 
+<video width= "400" heigth ="400" control> <source src = "" type ="video/mp4" ></video>
+### Apresentação de slides
+https://www.canva.com/design/DAGsgLRd9uo/cUJDnLFe_8s644AO9DIBEw/edit?utm_content=DAGsgLRd9uo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
